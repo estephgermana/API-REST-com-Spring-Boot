@@ -1,0 +1,2 @@
+<h1>API REST simplificada para gerenciar uma lista de livros usando Spring Boot 3 e Java 17. </h1>
+<p> Acessar os endpoints da API de livros em "http://localhost:8080/api/books". Certifique-se de configurar seu banco de dados no arquivo application.properties e implementar testes e outros recursos conforme necessário.</p>
